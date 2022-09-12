@@ -11,7 +11,7 @@ describe("Engineer", ()=> {
         expect(engineer.name).toEqual("Emily");
         expect(engineer.id).toEqual(3);
         expect(engineer.email).toEqual("test1@gmail.com");
-        expect(engineer.github).toEqual("test@github.com")
+        expect(engineer.github).toEqual("test@github.com");
       });
     });
     
