@@ -23,7 +23,7 @@ After opening the app on the terminal, make a selection from the menu and answer
 
 
 ## Testing 
-
+Passing tests for the employee and its subclasses were created. There were no failing tests created.
 
 ## Questions
 vlparker@g.cofc.edu
