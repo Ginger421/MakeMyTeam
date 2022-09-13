@@ -28,3 +28,5 @@ After opening the app on the terminal, make a selection from the menu and answer
 ## Questions
 vlparker@g.cofc.edu
 ginger421
+
+![image](https://user-images.githubusercontent.com/101539821/190015273-26530b9c-54d0-45b1-b73f-73dbf2fc7c32.png)
