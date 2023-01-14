@@ -13,7 +13,7 @@ This application creates employee cards for your team. There is a card option fo
 
 ## Installation 
 1. Clone the repo from GitHub. 2. Run npm install. Then run npm i inquirer. 3. Open a the terminal and make sure you are in the Make-My-Team folder. 4. Run node index.js 
-""""""""""""""""""""""""""
+
 ## Usage
 After opening the app on the terminal, make a selection from the menu and answer the prompts. When you are finished adding employees, select "I'm finished for now." An HTML file will be generated and can be opened in the browser.
 
